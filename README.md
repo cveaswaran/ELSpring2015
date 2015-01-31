@@ -1,3 +1,3 @@
-# ELSpring2015
-Template for ELSpring2015 class
-This is a template for students to clone for their work in the class. You should maintain the directory structure
+ ELSpring2015
+This is my (N02176842) repository. ALL work in here is mine, except otherwise noted.
+
