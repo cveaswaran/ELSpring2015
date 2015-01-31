@@ -1,5 +1,1 @@
-Images Directory.
-All your images should go here.
-Images must be names so that they are self-explantory, as much as possible.
-
-
+This is my (N02176842) Image directory file. All work in here is mine, except otherwise noted.
