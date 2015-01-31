@@ -1,3 +1,1 @@
-A directory for misellaneous stuff
-Nothing really relevant should be here!
-
+This is my (N02176842) misc directory file. All work in here is mine, except otherwise noted.
