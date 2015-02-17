@@ -1,0 +1,1 @@
+The purpose of this program is to make the LED blink three times with 1 second delay.
